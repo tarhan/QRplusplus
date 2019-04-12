@@ -1,4 +1,5 @@
 <RCC>
-    <qresource prefix="QRplusplus">
+    <qresource prefix="/icons">
+        <file>QRplusplus_icon.ico</file>
     </qresource>
 </RCC>
